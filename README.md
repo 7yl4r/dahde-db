@@ -1,5 +1,5 @@
-# DAHDE-database
-This Designed Around Human Data Entry (DAHDE) Database concept is a human-UI-first approach to a document-database made for easy data-entry.
+# DAHDE-DB
+The Designed Around Human Data Entry (DAHDE) Database concept is a human-UI-first approach to a document-database made for easy data-entry.
 
 This is only a concept. It currently has no functioning parts.
 
