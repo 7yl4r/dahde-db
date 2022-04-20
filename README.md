@@ -40,3 +40,4 @@ These pages will be very computationally expensive to generate and it may make s
 ## other ideas:
 * should actually be type-key-value triads? eg: boolean-is_published-true, datetime-published_on-20220311, product_type-data-zooplankton_dataset
     * note: are types in these triads pages too?
+    * the term here is "triple" like used in RDF syntax. Can you do something like [TRTL](https://en.wikipedia.org/wiki/Turtle_(syntax)) in yaml?
